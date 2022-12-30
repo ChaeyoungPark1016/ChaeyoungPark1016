@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+https://img.shields.io/badge/-JavaScript%20Router-#F7DF1E?logo=JavaScript&logoColor=lightyellow&style=for-the-badge&logoWidth=<amount_of_pixels>
+
+
+
