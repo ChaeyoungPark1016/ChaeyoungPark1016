@@ -24,9 +24,12 @@ interests: :computer: :guitar: :tennis:
 
 
 ### Hi there 👋
+</br>
 Welcome to my page!
-I'm Chloe from :kr: South Korea, currently living in Toronto, :canada: Canada. 
-<h3> My tech stach :books: </h3>
+I'm Chloe from South Korea, currently living in Toronto,Canada. 
+
+</br>
+<h3> My technical skills :books: </h3>
 
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
@@ -38,4 +41,7 @@ I'm Chloe from :kr: South Korea, currently living in Toronto, :canada: Canada.
 ![CSS3](https://img.shields.io/badge/-CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-228B22?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
+</br>
 
+### 🤝 Connect with me:
+<a href=”https://www.linkedin.com/in/chole1016/"><img align=”left” src=”https://raw.githubusercontent.com/ChaeyoungPark1016/ChaeyoungPark1016/main/images/linkedin.svg" alt=”Chaeyoung | LinkedIn” width=”21px”/></a>
