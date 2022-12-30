@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript%20Router-#F7DF1E?logo=JavaScript&logoColor=lightyellow&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-#F7DF1E?logo=JavaScript&logoColor=yellow&style=for-the-badge)
 
 
 
