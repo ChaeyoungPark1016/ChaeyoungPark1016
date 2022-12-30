@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-:kr:
-:canada:
-:pencil2:
-:computer:
-:guitar:
-:tennis:
+<h3> A little more about me :blush: </h3>
+const Chlore = {
+prononus: "she" | "her",
+language: [Korean, English],
+interests: :computer: :guitar: :tennis:
+}
 
 <h3> My tech stach :books: </h3>
 
