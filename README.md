@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=git&logoColor=white)
