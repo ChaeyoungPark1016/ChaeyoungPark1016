@@ -40,8 +40,9 @@ I'm Chloe from South Korea, currently living in Toronto,Canada.
 ![HTLML5](https://img.shields.io/badge/-HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-228B22?style=for-the-badge&logo=node.js&logoColor=ffffff)
-
 </br>
 
 ### 🤝 Connect with me:
 <a href=”https://www.linkedin.com/in/chole1016/"><img align=”left” src=”https://raw.githubusercontent.com/ChaeyoungPark1016/ChaeyoungPark1016/main/images/linkedin.svg" alt=”Chaeyoung | LinkedIn” width=”21px”/></a>
+</br>
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
