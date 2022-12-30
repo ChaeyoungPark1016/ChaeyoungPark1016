@@ -27,10 +27,9 @@ interests: :computer: :guitar: :tennis:
 </br>
 Welcome to my page!
 I'm Chloe from South Korea, currently living in Toronto,Canada. 
-
 </br>
-### :books: My technical skills : 
 
+## 💼 Technical Skills :
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=ffffff)
