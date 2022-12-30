@@ -25,7 +25,7 @@ interests: :computer: :guitar: :tennis:
 
 ### Hi there 👋
 Welcome to my page!
-I'm Chloe from 🇰🇷 South Korea, currently living in Toronto, 🇨🇦 Canada. 
+I'm Chloe from :kr: South Korea, currently living in Toronto, :canada: Canada. 
 <h3> My tech stach :books: </h3>
 
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=white)
