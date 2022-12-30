@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3> My tech stach </h3>
+<h3> My tech stach :books: </h3>
 
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
