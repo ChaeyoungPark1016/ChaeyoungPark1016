@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ChaeyoungPark1016/ChaeyoungPark1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
+:🇰🇷::canada::pencil2::computer::guitar::tennis:
 
 <h3> My tech stach :books: </h3>
 
