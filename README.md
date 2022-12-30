@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%F7DF1E?logo=javaScript&logoColor=%F7DF1E&labelColor=%FFCE00&logoWidth=<amount_of_pixels>)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%F7DF1E?logo=javaScript&logoColor=%F7DF1E&labelColor=%FFCE00&style=flat)
 
 
 
