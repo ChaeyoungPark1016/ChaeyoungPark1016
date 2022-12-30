@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=git&logoColor=white)
+
+![HTLML5](https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=html5&logoColor=white)
