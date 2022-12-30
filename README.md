@@ -23,8 +23,7 @@ interests: :computer: :guitar: :tennis:
 
 
 
-### Hi there 👋
-</br>
+## 👋 Hi there!
 Welcome to my page!
 I'm Chloe from South Korea, currently living in Toronto,Canada. 
 </br>
