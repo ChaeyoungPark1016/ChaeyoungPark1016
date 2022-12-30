@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-:🇰🇷::canada::pencil2::computer::guitar::tennis:
+:🇰🇷::ca::pencil2::computer::guitar::tennis:
 
 <h3> My tech stach :books: </h3>
 
