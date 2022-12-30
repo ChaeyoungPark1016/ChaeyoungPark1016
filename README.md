@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=git&logoColor=white)
 ![HTLML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
+
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-228B22?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
