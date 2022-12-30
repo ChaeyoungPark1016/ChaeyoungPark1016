@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h3> My tech stach </h3>
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javaScript&logoColor=F7DF1E&labelColor=yellow&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
