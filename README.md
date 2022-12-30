@@ -11,15 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-### Hi there 👋
 <h3> A little more about me :blush: </h3>
 const Chlore = {
 prononus: "she" | "her",
 language: [Korean, English],
 interests: :computer: :guitar: :tennis:
 }
+
+-->
+
+
+
+### Hi there 👋
 
 <h3> My tech stach :books: </h3>
 
