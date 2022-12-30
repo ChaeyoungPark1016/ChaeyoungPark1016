@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <h3> My tech stach </h3>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=git&logoColor=white)
-
 ![HTLML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=ffffff)
-
 ![C++](https://img.shields.io/badge/-C++-46a2f1?style=for-the-badge&logo=c++&logoColor=ffffff)
